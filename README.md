@@ -17,4 +17,6 @@
 3. Category
 4. Cart
 
-You can experiment with it , browse the models to see how query is done.
+You can experiment with it , browse the models to see how query is done. 
+
+To run , first make sure mongodb is running on the default port. Then you can run the DummyData.js file to insert some **dummy** data into mongodb. Data will be inserted in database named *ecommerce*
